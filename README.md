@@ -2,12 +2,6 @@
 
 ## Project Description
 
-### Team Members
-
-* Layan Suleiman(las225@lehigh.edu) - Frontend/Backend API Routes
-* Dariia Tyshchenko(dat225@lehigh.edu) - Database Management and Setup
-* Sarah Zwart(scz225@lehigh.edu) - Frontend UI
-
 ### Functionality
 
 The purpose of our app is to allow users to add plants to their online garden and keep track of when to water them. The app also gives tips depending on if it is a paid/unpaid user. 
@@ -30,14 +24,6 @@ The purpose of our app is to allow users to add plants to their online garden an
 ## How to run application:
 
 ### Add .env file to root of server folder & client folder
-
-#### Server & Client .env information stored here: 
-https://docs.google.com/document/d/12g1ZreNIKPxC5CjBjS5A4CKYUGV3JYufY2xj9aawDiQ/edit?usp=sharing
-
-### To login as a paid user use this email:
-
-Gmail: plantpal264@gmail.com
-Password: WebDevel0pment2024
 
 ### To login in as an unpaid user, use your email
 
